@@ -4,8 +4,6 @@
 
 Mohamed bin Zayed University of Artificial Intelligence · Qatar Computing Research Institute · Tohoku University · RIKEN
 
-*To appear at EMNLP 2026.*
-
 ---
 
 This repository contains the code for our paper, which investigates two complementary inference-time approaches for Arabic dialect steering in large language models: **neuron steering**, which identifies and rescales sparse dialect-associated MLP neurons, and **vector steering**, which extracts mean activation-difference directions from parallel dialect–MSA text and injects them during generation. Neither method requires fine-tuning.
