@@ -1,0 +1,3 @@
+{"dialect": "MSA", "path": "arabic_steering_vector/data/MADAR.corpus.MSA.tsv", "lang": "MSA"}
+{"dialect": "CAI", "path": "arabic_steering_vector/data/MADAR.corpus.Cairo.tsv", "lang": "CAI"}
+{"dialect": "RAB", "path": "arabic_steering_vector/data/MADAR.corpus.Rabat.tsv", "lang": "RAB"}

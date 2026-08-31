@@ -1,0 +1,43 @@
+[project]
+name = "steering-arabic-dialects"
+version = "1.0.0"
+description = "Neuron and vector steering for Arabic dialect control in LLMs."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Kareem Elozeiri" },
+  { name = "Mervat Abassy" },
+  { name = "Omar Kallas" },
+  { name = "Fahim Dalvi" },
+  { name = "Preslav Nakov" },
+  { name = "Kentaro Inui" },
+  { name = "Nadir Durrani" },
+]
+keywords = ["arabic", "dialects", "llm", "steering", "interpretability", "nlp"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Text Processing :: Linguistic",
+]
+dependencies = [
+  "transformers>=4.45.0",
+  "accelerate>=0.34.0",
+  "sentencepiece>=0.2.0",
+  "safetensors>=0.4.3",
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "matplotlib>=3.8.0",
+  "seaborn",
+  "tqdm",
+  "openpyxl",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]

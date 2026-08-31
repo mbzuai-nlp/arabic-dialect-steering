@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "SteeringArabicDialects"
+abstract: >
+  Code for the paper "Can Dialects Be Steered Like Languages?
+  Sparse Neurons and Distributed Directions in Arabic LLMs".
+  Implements neuron steering (LAPE-based MLP neuron identification
+  and rescaling) and vector steering (mean activation-difference
+  injection) for Arabic dialect control in LLMs.
+authors:
+  - family-names: Elozeiri
+    given-names: Kareem
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+  - family-names: Abassy
+    given-names: Mervat
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+  - family-names: Kallas
+    given-names: Omar
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+  - family-names: Dalvi
+    given-names: Fahim
+    affiliation: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - family-names: Nakov
+    given-names: Preslav
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+  - family-names: Inui
+    given-names: Kentaro
+    affiliation: Tohoku University
+  - family-names: Durrani
+    given-names: Nadir
+    affiliation: Qatar Computing Research Institute, Hamad Bin Khalifa University
+license: MIT
+repository-code: "https://github.com/KareemElozeiri/SteeringArabicDialects"
+preferred-citation:
+  type: conference-paper
+  title: "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs"
+  authors:
+    - family-names: Elozeiri
+      given-names: Kareem
+    - family-names: Abassy
+      given-names: Mervat
+    - family-names: Kallas
+      given-names: Omar
+    - family-names: Dalvi
+      given-names: Fahim
+    - family-names: Nakov
+      given-names: Preslav
+    - family-names: Inui
+      given-names: Kentaro
+    - family-names: Durrani
+      given-names: Nadir
+  collection-title: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing"
+  year: 2026

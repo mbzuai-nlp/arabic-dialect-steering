@@ -1,0 +1,7 @@
+{"dialect": "MSA", "path": "arabic_steering_vector/data/MADAR.corpus.MSA.tsv", "lang": "MSA"}
+{"dialect": "CAI", "path": "arabic_steering_vector/data/MADAR.corpus.Cairo.tsv", "lang": "CAI"}
+{"dialect": "RAB", "path": "arabic_steering_vector/data/MADAR.corpus.Rabat.tsv", "lang": "RAB"}
+{"dialect": "DOH", "path": "arabic_steering_vector/data/MADAR.corpus.Doha.tsv", "lang": "DOH"}
+{"dialect": "RIY", "path": "arabic_steering_vector/data/MADAR.corpus.Riyadh.tsv", "lang": "RIY"}
+{"dialect": "ALE", "path": "arabic_steering_vector/data/MADAR.corpus.Aleppo.tsv", "lang": "ALE"}
+{"dialect": "BEI", "path": "arabic_steering_vector/data/MADAR.corpus.Beirut.tsv", "lang": "BEI"}
